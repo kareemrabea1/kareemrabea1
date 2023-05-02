@@ -13,8 +13,8 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
 <br><br>
-Hello Everyone 👋, My name is Kareem. I'm Computer Science Student👨‍💻
-I’m interested in software engineering and technology. Presently,
+Hello Everyone 👋, My name is Kareem Rabiea. I'm Computer & Information Science Student👨‍💻
+I’m interested in Programming Mobile applications. Presently,
 You can follow me on the socials, below 👇.
 
 <br><br>
