@@ -13,7 +13,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
 <br><br>
-Hello Everyone 👋, My name is Kareem Rabiea.I am a student at the Faculty of Computers and Information Sciences👨‍💻
+Hello Everyone 👋, My name is Kareem Rabiea.Results-driven Flutter Developer with hands-on experience building scalable, high-performance mobile applications. Recognized by Egypt's Ministry of Communications and Information Technology through the Digital Egypt Pioneers Program. Proficient in modern architectures (Clean Architecture, MVC) and state management solutions (BLoC, Provider). Passionate about delivering clean, maintainable code with strong problem-solving skills and commitment to continuous learning
 I’m interested in Programming Mobile applications. Presently,
 You can follow me on the socials, below 👇.
 
